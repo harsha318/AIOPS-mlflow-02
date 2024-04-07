@@ -1,0 +1,12 @@
+name: D:\Mlops_cloud_New\MLFLOW_INeuron\Mlflow_demo\MLFLOW-IN\env
+channels:
+  - defaults
+dependencies:
+  - python=3.11.8
+  - pip
+
+  - pip:
+    - mlflow==2.11.3
+    - sciki-learn
+    - pandas
+    
